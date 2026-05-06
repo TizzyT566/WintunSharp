@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WintunSharp.Example/WintunSharp.Example.csproj" Id="ced670ff-6df3-4c4f-b5c1-bdce39d8f789" />
+  <Project Path="WintunSharp/WintunSharp.csproj" />
+</Solution>
